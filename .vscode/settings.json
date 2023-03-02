@@ -1,0 +1,11 @@
+{
+  "liveSassCompile.settings.rootIsWorkspace": null,
+  "liveSassCompile.settings.formats": [
+    // You can add more
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/styles"
+    }
+  ]
+}
