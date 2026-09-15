@@ -1,8 +1,19 @@
 # Josh Fletcher Portfolio
 
-Hi 👋 I'm Josh Fletcher, this is the repository for my Portfolio Page
+A single-page professional portfolio built with Next.js, React, and TypeScript.
 
-Check out my Portfolio site [here](https://wjfletch26.github.io/Josh_Fletcher_Portfolio) 
+## Local development
 
-https://wjfletch26.github.io/Josh_Fletcher_Portfolio
+```bash
+npm install
+npm run dev
+```
 
+## Validation
+
+```bash
+npm run typecheck
+npm run build
+```
+
+The production build is statically exported to `out/` for GitHub Pages.
